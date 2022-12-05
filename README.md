@@ -1,4 +1,7 @@
 # vigilant-adventure
+
+we will be following https://aws.amazon.com/blogs/devops/create-a-multi-region-python-package-publishing-pipeline-with-aws-cdk-and-codepipeline/ blog by @bsmitches
+
 Created a Multi-Region Python Package Publishing Pipeline with AWS CDK and CodePipeline
 
 This repository addresses how a custom solution built with the AWS Cloud Development Kit and AWS CodePipeline can create a Multi-Region Python Package Publishing Pipeline.
